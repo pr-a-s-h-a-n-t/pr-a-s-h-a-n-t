@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pr-a-s-h-a-n-t
 - 👀 I’m interested in Front-end Role .
-- 🌱 I’m currently learning DSA .
+- 🌱 I’m currently learning DSA & Front-end dev .
 - 💞️ I’m looking to collaborate on Front-end project .
 - 📫 How to reach me  prashantmishra111@outlook.com.
 
